@@ -41,3 +41,12 @@ An effective highly motivated team
 
 Develop>Capability>relationship>influence
 
+AI
+Deep learning
+WS
+JMS
+ITF
+JAVA
+LINUX
+
+
